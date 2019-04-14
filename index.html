@@ -3,26 +3,15 @@
 <html>
   <head><title>NoPiracyMan</title></head>
   <style>
-	  .elementor-element.e­lementor-element-###­# {
-min-height: ###;
-position: relative;
-overflow: hidden;
+.fixed_background_fix {
+background-attachment: scroll !important;
 }
-.elementor-element.e­lementor-element-###­#::before {
-background-image: url(fear.jpg);
-background-repeat: no-repeat;
-background-position:­ center center;
-background-size: cover;
-content: '';
-height: 100%;
-left: 0;
-position: fixed;
-top: 0;
-width: 100%;
-will-change: transform;
-z-index: -1;
+@media screen and (min-width:480px) {
+.fixed_background_fix {
+background-attachment: fixed !important;
 }
-	</style>
+}
+ </style>
   <body background="fear.jpg" width="10px" height="10px"> 
 	  
   <div class="card">
