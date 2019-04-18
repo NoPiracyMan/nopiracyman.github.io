@@ -8,3 +8,5 @@ Author: anondev
 Section: Tweaks
 Depends: firmware(>=5.1.1),mobilesubstrate,preferenceloader
 Filename: .debs/NoPiracyMan.localiapstore.deb
+SHA256: 9B7F7D54D0CFA0FA5EBEEB3D13A4ABB108EB69DC7921EA563FFAE65B87972A29
+SHA-1: FC7363723F6B0CC11DB1F3C68F0D9EFF0AB22DB5
