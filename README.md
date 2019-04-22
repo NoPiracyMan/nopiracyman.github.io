@@ -1,1 +1,1 @@
-No Piracy Please !!
+No Piracy Please!
