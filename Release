@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: Told you not to pirate!!
 MD5Sum:
-	cd0c72caf47eafbfb58e720ea739952d 693 Packages
-	6e60570b7f95234b997957dd914c04f3 552 Packages.bz2
+	cd0c72caf47eafbfb58e720ea739952d Packages
+	6e60570b7f95234b997957dd914c04f3 Packages.bz2
 
