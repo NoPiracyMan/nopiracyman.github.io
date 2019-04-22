@@ -8,7 +8,7 @@ Author: anondev
 Section: Tweaks
 Size: 71006 
 Depends: firmware(>=5.1.1),mobilesubstrate,preferenceloader
-Filename: .debs/NoPiracyMan.localiapstore.deb
+Filename: .debs/repo.nopiracy.localiapstore_1.4-2_iphoneos-arm.deb
 SHA256: 9b7f7d54d0cfa0fa5ebeeb3d13a4abb108eb69dc7921ea563ffae65b87972a29
 SHA1: fc7363723f6b0cc11db1f3c68f0d9eff0ab22db5
 MD5sum: c65917266d3ded5140b5950808e25291
