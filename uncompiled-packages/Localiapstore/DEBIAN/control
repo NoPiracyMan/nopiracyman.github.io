@@ -1,0 +1,11 @@
+Package: repo.nopiracyman.iapfree
+Name: IAP Free
+Version: 6.2.9
+Architecture: iphoneos-arm
+Description: Tweak to unlock VIP/Premium options on APP
+Depiction: https://repo.xarold.com/depiction.php?id=singvip
+Author: anondev & NoPiracyMan
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: No Piracy Man
+

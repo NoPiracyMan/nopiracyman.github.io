@@ -1,0 +1,20 @@
+Origin: NoPiracyMan
+
+Label: NoPiracyMan
+
+Suite: stable
+
+Version: 0.1
+
+Codename: ios
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Don't be a pirate !!
+
+MD5Sum:
+910c3cc08994056af70cf050bbf02e06 390 Packages
+d42f877eda937163ea132c9c29ada23a 309 Packages.gz
+0582da532c3f2e822749ce322a25e283 349 Packages.bz2

@@ -1,0 +1,14 @@
+Package: repo.nopiracyman.iapfree
+Version: 6.2.9
+Section: Tweaks
+Maintainer: No Piracy Man
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb/Localiapstore.deb
+Size: 42288
+MD5sum: ae16bd6e1f0a34aa401bd50c6b2ed77f
+Description: Tweak to unlock VIP/Premium options on APP
+Name: IAP Free
+Author: anondev & NoPiracyMan
+Depiction: https://repo.xarold.com/depiction.php?id=singvip
+
