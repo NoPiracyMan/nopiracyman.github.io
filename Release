@@ -1,20 +1,20 @@
-Origin: NoPiracyMan
+Origin: Patrick Muff
 
-Label: NoPiracyMan
+Label: Patrick Muff
 
 Suite: stable
 
 Version: 0.1
 
-Codename: ios
+Codename: dslk
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: Don't be a pirate !!
+Description: Repository of Patrick Muff
 
 MD5Sum:
-910c3cc08994056af70cf050bbf02e06 390 Packages
-d42f877eda937163ea132c9c29ada23a 309 Packages.gz
-0582da532c3f2e822749ce322a25e283 349 Packages.bz2
+a5426678c650512168679820506c2f2f 6258 Packages
+f0010948db36f9cc003909589d709f4c 1972 Packages.gz
+da3823866f2d7e6f7c7f50bf6d70b9ac 2142 Packages.bz2
