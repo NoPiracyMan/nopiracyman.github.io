@@ -1,34 +1,38 @@
-Package: crepo.nopiracyman.cachewipe
+﻿Package: repo.nopiracyman.cachewipe
 Version: 0.0~beta1
 Section: Addons (Flipswitch)
-Maintainer: Julio
+Maintainer: NoPiracyMan
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.cachewipe.deb
 Size: 13664
 MD5sum: a195290f2f62997d64c5fecc542c9c82
+SHA256: 4c1ac4873b383a55ea4736ad7691da0f1b3f3495f7ef01d13cb5d51a5763156c
+SHA512: d52a98824dc1c35d8fbc2f4e9423d990beed243984c515261934a10d3014cb32f27c940c14e750a16b9c82b40a8801df90a1f839e0ad9242bcbf526af5679dd8
 Description: Clear Apps Caches Switch
 Name: CacheWipe
 Author: julioverne
 Homepage: http://twitter.com/ijulioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.cachewipe
+Depiction: 
 Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
 
 Package: repo.nopiracyman.ChargeAnimations
 Version: 2.0
 Priority: optional
 Section: Tweaks
-Maintainer: Pulandres
+Maintainer: NoPiracyMan
 Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.chargeanimations.deb
 Size: 7975688
 MD5sum: 222927535e81fdfecfe2d2d4e78678c8
+SHA256: b07fa4e2bffb654940ced45a3c54e362aebf8b66ca0c9850697017aba3fbd933
+SHA512: 62f10d0805bf8df7a01744d806d3973b4680dc275720b29d2ab8b6b695107428e062c1e20f08d86d0ffd948d88072bb817c3f34d8da0e6d9e131e1afab790897
 Description: Animations when you plug your charger
 Name: ChargeAnimations Cracked
 Author: c1d3r
-Homepage: http://pulandres.rejail.ru/pack/ChargeAnimations
-Depiction: http://pulandres.rejail.ru/depiction.php?file=ChargeAnimations
+Homepage: 
+Depiction: 
 
 Package: repo.nopiracyman.bigshotjb
 Version: 0.0.2-2b
@@ -40,15 +44,16 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.bigshotjb.deb
 Size: 23768
 MD5sum: 02b9d0ef89eb0bf1addbec9076ceb6af
+SHA256: d4999dbf9937b87061ea05838b970aa90bf1693929efef075f8bea7769bfa194
+SHA512: 60896bf424df10315ba804715fd22512af7d9d55e72c293ab39aa3ea8a0033a275e0d49cbda9186b81dfe93dfcd2dc1711249227c6aec7a44602edec7f43123d
 Description: take screenshots of full vertical scrollable area
 Name: BigShotJb
 Author: tapthaker, julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.bigshotjb11
-
+Depiction: 
 Package: repo.nopiracyman.copylog
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Pulandres
+Maintainer: NoPiracyMan
 Depends: mobilesubstrate
 Conflicts: kiiiimo.is.trash
 Architecture: iphoneos-arm
@@ -56,26 +61,30 @@ Filename: deb/repo.nopiracyman.copylog.deb
 Size: 390984
 Installed-Size: 772
 MD5sum: 77cc14bcc2846b288f93f00395e74dfb
+SHA256: ef5b959e6cc7689c32f80b2202bb3e082dd32e05a9a0daea34252e6695750843
+SHA512: b858c93168177fd7f5f18ac2a362b9b3b13f7124e2779b8a2d6672cf361c6e8e3a1c9e53e269c062ac5f76e2aa91fba025965250ded294118e2d5b9b5bc36db2
 Description: Clipboard history manager for iOS!
 Name: CopyLog Cracked
 Author: TomT000
 Homepage: http://pulandres.rejail.ru/pack/copy
-Depiction: http://pulandres.rejail.ru/depiction.php?file=copy
+Depiction: 
 
 Package: repo.nopiracyman.gamegem
 Version: 1.5
 Section: Game Hacks
-Maintainer: ReJail <rejail@rejail.ru>
+Maintainer: NoPiracyMan
 Depends: firmware (>= 8.0)
 Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.gamegem.deb
 Size: 2860716
 MD5sum: 5a5afdbdfcf86d3ce2a827678dce76e4
+SHA256: ff2c35c2314151ef6425357c8d20f84ac557a69cfd6bc9dccd5816cf7e64621b
+SHA512: a805ca48c117c2c72ec35c0518a9dcfa717fcf584b78fc23a2e4c6578ac1a0cb28042b34be7ffd670ed5183a9a30a3e313314f7191dd1728f2eced46f951b077
 Description: Hack, Modify Running Game!!
 Name: GameGem
 Author: Aidoo.TK
-Homepage: http://rejail.ru/pack/gamegem
-Depiction: http://rejail.ru/depiction.php?file=gamegem
+Homepage: 
+Depiction: 
 
 Package: repo.nopiracyman.goodwifi
 Version: 0.0~beta4
@@ -86,11 +95,13 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.goodwifi.deb
 Size: 42184
 MD5sum: cd66278c787e66d1ffe4d4e08d5d1940
+SHA256: f7211d7a26aa01c47ce9604cc68359c4b0c8aff29c497f7088631ddbb72f91cb
+SHA512: c73d0be2a42fa88b4044c9d02c96f46e89c40ccfdb7c6607ae79335f022aca9fd16e351946132a3d90eca2aac962202d0731b4e00eef8956102e7a4a4750b943
 Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
-Homepage: http://twitter.com/ijulioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Homepage: 
+Depiction: 
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 
 Package: repo.nopiracyman.localiapstore
@@ -102,10 +113,12 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracymanlocaliapstore.deb
 Size: 42312
 MD5sum: b77c0714e88c09415bb1231761fffe37
+SHA256: 898fd9578760ee8dd1fce81bf23003cac17f77a241b593b07d7de81234a64f45
+SHA512: 77baae1cf0ba460fe4387c6d32410688dcc19d6d26de2b0a858adee3cb43998bca5a1849e223877be5d1e9734ddb9799510d7cd1a0686e403e256cf287ee3689
 Description: Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: Local IAP Store
 Author: anondev
-Depiction: https://repo.xarold.com/pack/localiapstore
+Depiction:
 
 Package: repo.nopiracyman.magma
 Version: 1.0.2
@@ -117,10 +130,12 @@ Filename: deb/repo.nopiracyman.magma.deb
 Size: 37128
 Installed-Size: 272
 MD5sum: 8ff9412e92d370f1705459e4a08808b2
+SHA256: aef5383569081c7b099fb4d7cbf61dba7892652d86150436c531572619e95991
+SHA512: 4c06f36de18efb35c728966a28db1cdae649194bda29774aaad68199f8c3273b1a454e0398c3b820ab42801dd3f7a39bfc61628f0cf86644a0809c3702b83d54
 Description: Color your Control Center
 Name: Magma
 Author: NoisyFlake
-Depiction: https://apt.noisyflake.com/depictions/index.html?id=com.noisyflake.magma
+Depiction: 
 
 Package: repo.nopiracyman.mimport
 Version: 0.0~beta34a
@@ -131,11 +146,13 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.mimport.deb
 Size: 467724
 MD5sum: 6104119f45bf94ddc9704418b65a0f6b
+SHA256: 8cc9c46a5ff5641ebe195673ac0299235137bc106378bfe20200e31ad03febef
+SHA512: 924145d154fe0b0582b823bec8d7f6398be8e8bbd913a59919dd626f80504a077a1ff6a02c779a9b0127ed4e4c9255510d1ec91a5abf200badfd79ff1521fba8
 Description: Media Importer Directly From Music App
 Name: MImport
 Author: julioverne
-Homepage: http://twitter.com/ijulioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+Homepage: 
+Depiction: 
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
 Package: repo.nopiracyman.pasithea2
@@ -150,11 +167,13 @@ Filename: deb/repo.nopiracyman.pasithea2.deb
 Size: 397396
 Installed-Size: 1808
 MD5sum: 855c8ad4f69d2c10f3239d5b512ccf0d
+SHA256: 39656a787bb6a0b24a1a23ee0fc8a5a1dba02d8ade5e8c213ac4663108a93498
+SHA512: baefc7784171ac2bf3f2b600ac60c4cec4efa3e05e414065261d7455f359d72631bf5c897d95934e20c54e1b76811507e2685e3e224b5f4cfd9d4d22de933249
 Description: Awesome ClipBoard
 Name: Pasithea 2 Cracked
 Author: Cannathea <csupport@cannathea.com>
-Homepage: http://pulandres.rejail.ru/pack/pasithea2
-Depiction: http://pulandres.rejail.ru/depiction.php?file=pasithea2
+Homepage: 
+Depiction: 
 Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
 
 Package: repo.nopiracyman.sential
@@ -166,10 +185,12 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.sential.deb
 Size: 1905484
 MD5sum: cdb4393492e91b6c8807a82f9df6d844
+SHA256: e1f35af8f9c16985b08b707296ca4347d2e580658c7efab83ba2c4b52b56ac83
+SHA512: db5133226b789a8cc3be2329d881bf0276b14e801ff3e0d4de7b922edb2253945e79890773dae538cc02c0e86df169111ac0552d83a1c07451b3afa33d23dc31
 Description: Essential changes for an essential iOS.
 Name: Sential
 Author: Aesign
-Depiction: http://repo.xarold.com/depiction.php?id=sential
+Depiction: 
 
 Package: repo.nopiracyman.singvip
 Version: 6.2.9
@@ -180,8 +201,10 @@ Architecture: iphoneos-arm
 Filename: deb/repo.nopiracyman.singvip.deb
 Size: 7568
 MD5sum: ef9ac77a50c7e542e2efa42b9e7e98ad
+SHA256: 7defa463863083af354e5cc090ec92be36e01d28caa5708303660aee37c8056e
+SHA512: d74b2e3d7a1f028d2ab36d507369d95e87a5c8a4bd42e84373842172746ec2f9c8f1a1937e07d42fbe6632e95c93d6212597e8ca57858d0c4e513158872ed91a
 Description: Tweak to unlock VIP/Premium options on APP
 Name: Sing!® (VIP)!
 Author: kiengk0eng
-Depiction: https://repo.xarold.com/depiction.php?id=singvip
+Depiction: 
 
