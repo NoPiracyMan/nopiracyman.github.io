@@ -1,14 +1,14 @@
-﻿
 Package: repo.nopiracyman.ChargeAnimations
+Architecture: iphoneos-arm
 Version: 2.0
 Priority: optional
 Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.chargeanimations.deb
-Size: 7975692 
+Filename: ./deb/repo.nopiracyman.ChargeAnimations_2.0_iphoneos-arm.deb
+Size: 7975692
 MD5sum: db798779c2bc4a3bb50be26ad34a7c81
+SHA1: a43fdadcb6aff891e391c3d2cfc33aef905c8d50
 SHA256: e7e4642a426867cc81ed63ce587a58ad42fbc311a0e38b83c1c7d798f1656ac4
 SHA512: 725cb9788900e91512a6f3ebb5261633b5dfb4cd9359afef741c32a8f2254bc147cd0b70d506501f9b6016af8cd922d28defa5edd92faec2cce5d4ef1910a0f5
 Description: Animations when you plug your charger
@@ -16,119 +16,154 @@ Name: ChargeAnimations Cracked
 Author: c1d3r
 
 Package: repo.nopiracyman.bigshotjb
+Architecture: iphoneos-arm
 Version: 0.0.2-2b
 Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: mobilesubstrate, libactivator
 Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11, com.julioverne.bigshotjb11
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.bigshotjb.deb
+Filename: ./deb/repo.nopiracyman.bigshotjb_0.0.2-2b_iphoneos-arm.deb
 Size: 23772
 MD5sum: 0b3321ec60a5344f6afcce5c55fa9024
+SHA1: c48adbea0b8f3045d77268d813f7b7529a53c298
 SHA256: 7b7b3ed8b826cf8afc74d7961a4c4f9b14fa9c1331a36b7750a7aa423fc2a3f8
 SHA512: 122d9fa1e9b67b7aa99db2c184bf6e7c63fcb18a65496c41d08e00d7aa78480c2110f4f13b5168457df4bea8d228743d615cc2066477e8c98645b4eaa05ab16d
 Description: take screenshots of full vertical scrollable area
 Name: BigShotJb
 Author: tapthaker, julioverne
-Depiction: 
+dev: tapthaker
 
 Package: repo.nopiracyman.copylog
+Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: NoPiracyMan
+Installed-Size: 772
 Depends: mobilesubstrate
 Conflicts: kiiiimo.is.trash
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.copylog.deb
+Filename: ./deb/repo.nopiracyman.copylog_1.0.1_iphoneos-arm.deb
 Size: 390828
-Installed-Size: 772
 MD5sum: 38db3d2ddcce34c72aa5159c108bf142
+SHA1: 07e250eb180d48c8a16e2685d35e3a902e5f40e0
 SHA256: 8896594428a0677b33f5abbeb4d37c8ea277bdd6e07994a46fd2104f660b63e2
 SHA512: 8fc345774e8ecf3cdc1f453bf65e91d30550228cfea50964da1f59ca276c8d256b7943f30194ed8e9bc894cf0458d11c2827390249c171958ecb0ed319104785
-Description: Clipboard history manager for iOS!
+Description: Clipboard history manager for iOS!Maintainer: NoPiracyMan
 Name: CopyLog Cracked
 Author: TomT000
 
-
 Package: repo.nopiracyman.gamegem
+Architecture: iphoneos-arm
 Version: 1.5
 Section: Game Hacks
 Maintainer: NoPiracyMan
 Depends: firmware (>= 8.0)
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.gamegem.deb
+Filename: ./deb/repo.nopiracyman.gamegem_1.5_iphoneos-arm.deb
 Size: 2860508
 MD5sum: 447be39073728b3ba385c8cb6508558c
+SHA1: ba0fae12038c8d22affc9c309401d92bf41800f4
 SHA256: 5e861dd4ee0bcee0c8a4cfac7ccf98d1cdb44bfc798cbb31d53bb09a804b77dd
 SHA512: 206f20698fe337fb3deb695956904ffadbb2eea97ba61e3e50ace3567f5f39922261177da226068ebb681f8e09dfde3473d2a865f04223ac741b614b1482b349
 Description: Hack, Modify Running Game!!
 Name: GameGem
 Author: Aidoo.TK
 
-
 Package: repo.nopiracyman.goodwifi
+Architecture: iphoneos-arm
 Version: 0.0~beta4
 Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.goodwifi.deb
-Size: 42156 
+Filename: ./deb/repo.nopiracyman.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 42156
 MD5sum: 6f4bfaf77995f4cc2352497621d92011
+SHA1: 98f2f76a66865249b9732d86589857082cf4eedf
 SHA256: 20de4d6c75cd1e4157aad76670d3642f18191979210e1ffc950e19cfd09a35f9
 SHA512: 7b9a0f9132483942894cc00051d223cc60f71f2d3e3826a6a18fd4ec4b13974447ac130d282054c5c5f5ee2d5384bbd7ecb0cdc42f6ff84d6a73bd4e14d115db
+Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 
 Package: repo.nopiracyman.localiapstore
+Architecture: iphoneos-arm
 Version: 1.4-2
 Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracymanlocaliapstore.deb
+Filename: ./deb/repo.nopiracyman.localiapstore_1.4-2_iphoneos-arm.deb
 Size: 42328
 MD5sum: 618b22669c11b3645b48952b710d856c
+SHA1: 97dc11e7fd5989fa1fd1bae26922edf30c592020
 SHA256: a43a5302f166ec7de6e663dce6c28c3d2e2be21a0535ee6da987665003074417
 SHA512: e51974d4c389a2f13acfd064c4f348d95c1433ca1b8ea0788d1b36755ace37e874d159125e887af2969f8880dae79853f80217bbd383dcfd388c51c2a77e8577
 Description: Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 Name: Local IAP Store
 Author: anondev
-Depiction:
 
+Package: repo.nopiracyman.magma
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 272
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Filename: ./deb/repo.nopiracyman.magma_1.0.2_iphoneos-arm.deb
+Size: 37100
+MD5sum: 5aed16aeb1419b9e7a3db9d04482bf99
+SHA1: 46cf1355c37b74bc46cb5d7002ebaee653ea0d9e
+SHA256: 906b4ffc1d2c83f4e8af196cf3606ad5c3b3c42eb0ef2b91a48bf96eafed9098
+SHA512: 0c82c7304bb86e2fc04b30f741cef6e98fd71cdadea0cd35ad8b82779bd9b9d62d7b924028e22de30c00f96d8c2d18f20b9d8cbc7fe4ef46cfabd72b449491bf
+Description: Color your Control Center
+Name: Magma
+Author: NoisyFlake
 
+Package: repo.nopiracyman.mimport
+Architecture: iphoneos-arm
+Version: 0.0~beta34a
+Section: Tweaks
+Maintainer: NoPiracyMan
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./deb/repo.nopiracyman.mimport_0.0~beta34a_iphoneos-arm.deb
+Size: 467700
+MD5sum: cb5ebd701f6010f9139a7322a8f27439
+SHA1: 39621bf70964fddb8523a94d92132ecc7a289716
+SHA256: 5ec414fe29f8714aaddad06a8cade96cca0631f309071d52755eeb97f9249aed
+SHA512: 504c54d556a4954f9e086991770207eafaa84cf2554d955aa18a27d9eb12c0efc878a14f4de771f6184d7aa8c4d2a6de592e7bdf4ed36f6a2e254d0a527d6685
+Homepage: http://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App
+Name: MImport
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
 Package: repo.nopiracyman.sential
+Architecture: iphoneos-arm
 Version: 1.2
 Section: Themes
 Maintainer: NoPiracyMan
 Depends: firmware (>= 7.0), com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.sential.deb
+Filename: ./deb/repo.nopiracyman.sential_1.2_iphoneos-arm.deb
 Size: 1905436
 MD5sum: 3afd11a0aef0e3ef7cefc0342b85471e
+SHA1: ecd06b2b1ef6eebee72e646159a61cee3e90728e
 SHA256: d72cac8dc99a9abf8a1a6e4acd0d610cfd0c78d8a7af5756e9ade3d275fcfbc5
 SHA512: 16e83d970957661d7d8b5d8d9adee2115a28ea60d2ffe0cc90a3cb9ff2252961c21e76503ccb644423aee914e86eb7afd092f8e78ea64841094e7762ee0f47dd
 Description: Essential changes for an essential iOS.
 Name: Sential
 Author: Aesign
-Depiction: 
 
 Package: repo.nopiracyman.singvip
+Architecture: iphoneos-arm
 Version: 6.2.9
 Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: deb/repo.nopiracyman.singvip.deb
-Size: 7544 
+Filename: ./deb/repo.nopiracyman.singvip_6.2.9_iphoneos-arm.deb
+Size: 7544
 MD5sum: 555b9cb139747dfb97c0b7de3b799ea0
+SHA1: 23dd4027998ff8d3240252f82a67c78c60b8c6b3
 SHA256: afc7fca4d46f4ee0b38ad7de92a1dcfbea1b7d5aff2fae12807ff4d1f990d86b
 SHA512: bcb0d1ab4344877844d4bb84cac92fc45a885cc7166ce0fbe80bfd0ab51db894f61c515ce952a4b0af011ee6bdcc33854ed20419dbe93f3954e48c7f5f5d3341
 Description: Tweak to unlock VIP/Premium options on APP
 Name: Sing!® (VIP)!
 Author: kiengk0eng
-Depiction: 
 

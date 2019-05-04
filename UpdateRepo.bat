@@ -1,0 +1,1 @@
+bash -c "cd /mnt/C:\Users\Administrator\Documents\GitHub\nopiracyman.github.io; ./UpdateRepo.sh"
