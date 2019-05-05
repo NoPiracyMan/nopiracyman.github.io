@@ -1,3 +1,78 @@
+Package: com.midnightchips.bettersettings
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: midnightchips
+Installed-Size: 1964
+Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: ./deb/com.midnightchips.bettersettings_0.1.2_iphoneos-arm.deb
+Size: 1260090
+MD5sum: 8130f1ad98686dadc9e8c6b0ba42ab14
+SHA1: 0a0cfa0eda20eb739dae5a55aa46cbf70c4fefde
+SHA256: b165be828595cb98eb93c4f959e89e07bc8647123a5c0ec68c382208c2cf929f
+SHA512: 9be4503bf80c04009e92ea10adfd2d1294623826b688dc28ceafcb879fb41d36d3b107d4ee027f2fdbda0894771c09bbe59f1ec70cc88142536a09743a7cbf26
+Description: Settings your way
+Name: BetterSettings
+Author: midnightchips
+SileoDepiction: https://midnightchips.me/sileo/bettersettings.json
+Icon: https://midnightchips.me/packages/bettersettings/PM.png
+Depiction: https://midnightchips.me/depiction/?bettersettings
+
+Package: com.opa334.safariplus
+Architecture: iphoneos-arm
+Version: 1.7~b4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3712
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./deb/com.opa334.safariplus_1.7~b4_iphoneos-arm.deb
+Size: 1268376
+MD5sum: 32e0519ce080f5e2a44114a19ee9b564
+SHA1: 9628303a3c27d14e912253847fba4d5c4f337d42
+SHA256: 2625800c1bcfbb9ef87dd87db2fc5b8019ef542b6d0038d42107e07a47ff4e55
+SHA512: 30a5885f634246c74dc7ff793b2e4d6a8baf5fb3b52e361e499eb462deca4959c6b2fbe8d94fad1cac4dc428ca75aaa134ca46fc29f5bb96c239157fd5a32a78
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!
+Name: Safari Plus
+Depiction: https://opa334.github.io/beta/depic/SafariPlus/index.html
+Author: opa334
+
+Package: com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate
+Filename: ./deb/com.pulandres.cercubecrack_1.0_iphoneos-arm.deb
+Size: 52376
+MD5sum: b05b5ebe2982ebb5566f8497d07d4056
+SHA1: 98adba164ebb66678c4d1db5ebddaf29fff2af91
+SHA256: 168866d180089eefbae8a5d2cf01353f76934c563874764809a59602b79232f8
+SHA512: 2fffa55b85b9d503fc15527dbd250af7ffee9e8240fdf31f20c36cc61182a377f2dcf5f22b4ebc9f8ef6fa0b27650653b65f04536b4ed0a84ab677364b9b4e73
+Homepage: http://pulandres.rejail.ru/pack/cercubecrack
+Description: Remove Ads from Cercube
+Name: RemoveAdsCercube
+Depiction: http://pulandres.rejail.ru/depiction.php?file=cercubecrack
+SileoDepiction: http://pulandres.rejail.ru/sileo/depiction.php?file=cercubecrack
+Author: Pulandres‬
+
+Package: perl
+Architecture: iphoneos-arm
+Version: 5.28.0-1
+Priority: optional
+Section: Scripting
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 107352
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./deb/perl_5.28.0-1_iphoneos-arm.deb
+Size: 12687852
+MD5sum: a86b7dc9550ac2c09d24ca6b70505e68
+SHA1: c07df862126d05eca6212149f64659d1a68395f2
+SHA256: 203fda1d11c33a03cd00e0d185ae297c487146ea69a22244b910239e515742ce
+SHA512: 980cd8c3d5949df1d2998ff50f8262d167259382763b2858f2e965c3b4b248c1da163ba3e6ac14d1cab0bdec00961c18343f0b0d60b12c2ff8ad7ad470bc4546
+Description: awesome combination of sed and awk
+Name: Perl
+
 Package: repo.nopiracyman.ChargeAnimations
 Architecture: iphoneos-arm
 Version: 2.0
@@ -6,14 +81,69 @@ Section: Tweaks
 Maintainer: NoPiracyMan
 Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
 Filename: ./deb/repo.nopiracyman.ChargeAnimations_2.0_iphoneos-arm.deb
-Size: 7975692
-MD5sum: db798779c2bc4a3bb50be26ad34a7c81
-SHA1: a43fdadcb6aff891e391c3d2cfc33aef905c8d50
-SHA256: e7e4642a426867cc81ed63ce587a58ad42fbc311a0e38b83c1c7d798f1656ac4
-SHA512: 725cb9788900e91512a6f3ebb5261633b5dfb4cd9359afef741c32a8f2254bc147cd0b70d506501f9b6016af8cd922d28defa5edd92faec2cce5d4ef1910a0f5
+Size: 10292224
+MD5sum: 84ad433994e9d076055eed757c0f73a7
+SHA1: a0a4629e7e0dd5eac2596d1b9618aae889424155
+SHA256: b48f2c80eeb97a7217b50d0d1886ee0b7f80933742542c5af7ed94e7b057b66c
+SHA512: deba80848286f87ecf7c7977cdc1e613702adf660176d771fc223fc62a83df8df23b1a31a6b72160ff2ac37106ae1fb6af2bf59d6ad7a98f8ffd0edb5cc9cb85
 Description: Animations when you plug your charger
 Name: ChargeAnimations Cracked
 Author: c1d3r
+
+Package: repo.nopiracyman.answeringmachinex
+Architecture: iphoneos-arm
+Version: 1.0-6
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 1576
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4), com.pulandres.limneosos, ru.rejail.limneosos, com.hackyouriphone.limneosos, jaja.lol.wtf
+Replaces: net.limneos.answeringmachinex
+Filename: ./deb/repo.nopiracyman.answeringmachinex_1.0-6_iphoneos-arm.deb
+Size: 493340
+MD5sum: 30ec9addd0de9c345be9f986fbe9bb90
+SHA1: 8266093e99f175beb435484d7878c07de9395935
+SHA256: 0064fbde0a49f746002a4f282ab802ac9cbcadb2b1180a4daeed099328d54252
+SHA512: c462d7543bea2d07bc09660b75f56e49d6b5699819a5764ef91cb17e23416d6e3ef4717e079458637072c4f59ea328ce95ab654949e45d037a4d39829eeff034
+Description: AnsweringMachine X Cracked
+Name: AnsweringMachineXS Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: repo.nopiracyman.audiorecorderxs
+Architecture: iphoneos-arm
+Version: 3.0-78
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 7352
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./deb/repo.nopiracyman.audiorecorderxs_3.0-78_iphoneos-arm.deb
+Size: 3701202
+MD5sum: 622266522428ec106b11d92f74a1f17c
+SHA1: 88efb7523a8855e5b157e2b03fcdf201afc08d57
+SHA256: 9aea9251ee3ea2b909936ecb269b2ab3e33e0e00c675060df11fe17cf57b143d
+SHA512: d1b71e137fe3178b73242f514ac9a80ed4e6df8a62156ad57f1bf272096b27fc7ceecdb723b8cdcb992ba9fa1e0bf25d818926b7bd9bf3d59d8c13d632ade83d
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: repo.nopiracyman.bckup3
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 181664
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Filename: ./deb/repo.nopiracyman.bckup3_1.3_iphoneos-arm.deb
+Size: 5021928
+MD5sum: 092bf60b5f020aeba4ee12d8acfd6b32
+SHA1: 37d574ca6f3db9fedd246a7cc448faa55a0c12bf
+SHA256: 7cb2f4d71528b26d4572c3ebfaa823f09529906f35b7d37d9afd83f9d35c40ef
+SHA512: 774690777cdc5d3ed1a9a63d1bcf06d99d1696874cb5093d3c28cfd2a38b10a8f86ce437e9e951bc67fd9e129161b8c57608d23daf308b301d9482e3ee053011
+Description: Backup all your tweaks and preferences
+Name: BackupAZ 3 Cracked
+Author: SynnyG
 
 Package: repo.nopiracyman.bigshotjb
 Architecture: iphoneos-arm
@@ -33,6 +163,60 @@ Name: BigShotJb
 Author: tapthaker, julioverne
 dev: tapthaker
 
+Package: repo.nopiracyman.bioprotectxs
+Architecture: iphoneos-arm
+Version: 4.0-69
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 1348
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./deb/repo.nopiracyman.bioprotectxs_4.0-69_iphoneos-arm.deb
+Size: 570782
+MD5sum: 75cf3952183b8b5c63d022ae3b9b152a
+SHA1: c92d691422e33a4c2d9100b0bc55da88153d3d14
+SHA256: 11870ed87eabd587d21e6de2dfc779272134523d7d4fc4b5f6c6306fa7be76b1
+SHA512: 485a851081d9adf893db35f01e7a357238c15900fc59162d195c5f497701bdc15b307b10e6896f84cf0b2d1540da858872fb139bbf9cf74a4e8ab11af39acf3a
+Description: Full protection with Touch/Face ID
+Name: BioProtect XS Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+
+Package: repo.nopiracyman.callbarxs
+Architecture: iphoneos-arm
+Version: 2.2-5
+Section: Tweaks
+Installed-Size: 788
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.callbarxs
+Filename: ./deb/repo.nopiracyman.callbarxs_2.2-5_iphoneos-arm.deb
+Size: 408304
+MD5sum: 590b59e50fb5a3f4c7528e32cf6aedcf
+SHA1: 572f9a5b8d12a3d80823d2f09d9319064daea925
+SHA256: f9f66939754f6e9fef9b5056bae5a906d7a5ef9f6285bd8ba635db765b048c31
+SHA512: 6b5e47f4b580e55e32ea4ae0885c8ae0c74ea05bb5faa957ecbaf8444ce871410ae02cf5a2897e6e77404e5af4c2c673f713a4be3d95cb6e4527cb1e36385e2b
+Description: Change style of your callsMaintainer: NoPiracyMan
+Name: CallBar XS Cracked
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+
+Package: repo.nopiracyman.cercubecrack
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: NoPiracyMan
+Depends: mobilesubstrate
+Filename: ./deb/repo.nopiracyman.cercubecrack_1.0_iphoneos-arm.deb
+Size: 52344
+MD5sum: 0300528dfa37b4fd779bed4050d9f6cd
+SHA1: 05a42ce31641bf466d79c9e6c78936c978396351
+SHA256: 24e6d1665482c1bb2c2bf0093e492fc6ea9b6c3160ea8d1d17ab2cffc69702be
+SHA512: 4c016a4f48ba332bf89f037c2815a3ec240992b6289104c42e141ea6a516b3d86e4f2dc78c80c08075bfb1e337eb42eefb62ba43e401239f559fbeec9357039d
+Description: Remove Ads from Cercube
+Name: RemoveAdsCercube
+Author: Pulandres‬
+
 Package: repo.nopiracyman.copylog
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -49,6 +233,28 @@ SHA512: 8fc345774e8ecf3cdc1f453bf65e91d30550228cfea50964da1f59ca276c8d256b7943f3
 Description: Clipboard history manager for iOS!Maintainer: NoPiracyMan
 Name: CopyLog Cracked
 Author: TomT000
+
+Package: repo.nopiracyman.dleasy
+Architecture: iphoneos-arm
+Version: 1.5.2
+Priority: optional
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 4612
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: ./deb/repo.nopiracyman.dleasy_1.5.2_iphoneos-arm.deb
+Size: 1506492
+MD5sum: 4ccebbd715ed4aea3c4492ccf6b14787
+SHA1: 605046bb053285485e8cb6e726d7778a0d0b6b62
+SHA256: a1040f78b887688fd5df4336dfeb5571d0221597e563beae90dc7883116f25a3
+SHA512: 342da77aadffe4273d2eaa9dfddd030f37587ebf1421c8b9ffc323109b8a3a784fa711f4ac9844e7847c14923eeae40bc6cd12afe9b11ac9830521b6f89f6874
+Description: Download images & videos from social apps easily!
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Name: DLEasy
+Sponsor: thebigboss.org
+Author: Ahmed Bafkir
+dev: ahmedbafkir
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
 
 Package: repo.nopiracyman.gamegem
 Architecture: iphoneos-arm
@@ -83,6 +289,37 @@ Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+
+Package: repo.nopiracyman.hotspotcrack
+Architecture: iphoneos-arm
+Version: 1.0.1.2
+Section: Tweaks
+Filename: ./deb/repo.nopiracyman.hotspotcrack_1.0.1.2_iphoneos-arm.deb
+Size: 7554
+MD5sum: ef4fabc16fae9e6756e46886808b38d1
+SHA1: 5eaa069542388fb70b50e03ba42e0d991a01e06f
+SHA256: eda4bf7c68444f4ad2278f299d11c722f9a0ed238078221c6b28429fd20357e5
+SHA512: a0cfe7edec5331ebaaace91f22bc39dbdf61af037bc914d1467eea22a5418f677c96600d84d0fc1ae13c3608d150c5f4f5a9c3980dd44e1cdeb04ff71987018d
+Description: Free Premium Hotspot Shield. Unfortunately unlimited data might not work, everything else is Premium though.Maintainer: NoPiracyMan
+Name: Hotspot Shield++
+Author: SarahH12099 <repo@hackyouriphone.org>
+
+Package: repo.nopiracyman.hyperion
+Architecture: iphoneos-arm
+Version: 0.4.9-1
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 3700
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, org.thebigboss.libcolorpicker
+Filename: ./deb/repo.nopiracyman.hyperion_0.4.9-1_iphoneos-arm.deb
+Size: 2057132
+MD5sum: 5ac62badc9f32717aef0890de0865ca2
+SHA1: e0025079201afe8652bb4a5e9c337b3def250ba5
+SHA256: f83e45d241ba3795dd0ff3011e12df2374e922b00ec16e5f7b73cb5ff7c9eea4
+SHA512: 5ae119b0c986c3f191191b5584f3e01c85be5cb7002003ae39cc9e6501746f14089d110c7ebdbc24c6fd07e67629056a44cc862a114d1faebae6426718d647d9
+Description: Amazing animations for Notifications
+Name: Hyperion Cracked
+Author: Spark
 
 Package: repo.nopiracyman.localiapstore
 Architecture: iphoneos-arm
@@ -135,6 +372,40 @@ Name: MImport
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 
+Package: repo.nopiracyman.notchification
+Architecture: iphoneos-arm
+Version: 1.4.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: NoPiracyMan
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, applist
+Filename: ./deb/repo.nopiracyman.notchification_1.4.2-1_iphoneos-arm.deb
+Size: 3024940
+MD5sum: eee26f64d0dab796eb05457597ec10d1
+SHA1: 74c31b09bb8955c14616dd43e0b0bf1e9038c2f8
+SHA256: 761b8a17a0d2d1d8cc55cbb5c5b68c9c9784039d01ecc7812c7c322a9889d2b6
+SHA512: 7a0665133b8686f843cc80b5f0917fb956c52111b03361731b7107229fb0321020ad21e9ea7e761e95f6dbdbd4f3524f7f25eb58b0d69430a74789620ded9334
+Description: Awesome Animations for Notifications
+Name: Notchification Cracked
+Author: c1d3r
+
+Package: repo.nopiracyman.pulloverpro
+Architecture: iphoneos-arm
+Version: 1.4-2
+Priority: optional
+Section: Tweaks
+Maintainer: NoPiracyMan
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./deb/repo.nopiracyman.pulloverpro_1.4-2_iphoneos-arm.deb
+Size: 5788230
+MD5sum: 59926564f18829edef62a8eacefff60d
+SHA1: a433525abc4358282fe38a8cfc1f16889221c0e0
+SHA256: fcb84ee67c86f24df240f5ba4bb079822855c3268d5d1561d9f0d13af43c687b
+SHA512: ed00c659938acf3ba7eb6db25cd9afc3878a88ec2840f690459470575fb99cd44fc1bd6a52e96c203e928fcab4a86fa41b432fac704a6e8634d46c2e6b585251
+Description: A better way to multitask!
+Name: PullOver Pro Cracked
+Author: c1d3r
+
 Package: repo.nopiracyman.sential
 Architecture: iphoneos-arm
 Version: 1.2
@@ -166,4 +437,39 @@ SHA512: bcb0d1ab4344877844d4bb84cac92fc45a885cc7166ce0fbe80bfd0ab51db894f61c515c
 Description: Tweak to unlock VIP/Premium options on APP
 Name: Sing!® (VIP)!
 Author: kiengk0eng
+
+Package: repo.nopiracyman.vesta
+Architecture: iphoneos-arm
+Version: 0.0.4b4
+Section: Tweaks
+Maintainer: NoPiracyMan
+Installed-Size: 1092
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.spark.libsparkapplist
+Filename: ./deb/repo.nopiracyman.vesta_0.0.4b4_iphoneos-arm.deb
+Size: 479646
+MD5sum: a124078c9b99739c0d646e94cdb50969
+SHA1: 0e7193acc44343cee6ef1be71f937b2945e5c6d2
+SHA256: 14df07e2c856519f23d8e27b6ff9c75e7960787d0561130c50c095594341f886
+SHA512: 8e2e50cac7801f9471165d397cc7861ed5992dac1f950db6ff1eefffc7b362e1262371b2f809be8b0a9b92a46bfc99721616d14df4effde84b5ddf582a7ec122
+Description: App Drawer
+Name: Vesta Cracked
+Author: Spark
+
+Package: repo.noporacyman.fbadblck
+Architecture: iphoneos-arm
+Version: 1.4~1
+Section: Tweaks
+Maintainer: NoPiracyMan
+Depends: mobilesubstrate
+Conflicts: jaja.jaja.jajaja
+Replaces: com.rishanan.fbadblock
+Filename: ./deb/repo.noporacyman.fbadblck_1.4~1_iphoneos-arm.deb
+Size: 5254
+MD5sum: 83153c8873702ad94fee4ab37d70a306
+SHA1: c57613cba7cc0062dca167a7fd1d26cacd590897
+SHA256: 96f124d1f237e5498486d27b21a0f9c43fbae7f41d4b4612128c2925d9b4abe9
+SHA512: dd478b20727ebd961f0a1e71258e8653da42403fdef0736f141b533cee53c87e7930ed65c539e82bad7eb68395e2b24fc81deb4ff882d87717ef27c92da2521d
+Description: The BEST ad-blocker for Facebook.
+Name: FacebookAdBlocker Cracked
+Author: Rishanan <repo@hackyouriphone.org>
 

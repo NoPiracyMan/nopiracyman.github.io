@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Don't be a Pirate!
 MD5Sum:
- 13ae6eb8049e947e38e26926dd4e5f4d 6841 Packages
- 52f11fbbc90f209186644f6f81d3b7f4 3028 Packages.bz2
+ cafe4a9152a72c16faf8a17d0a5684e1 20096 Packages
+ 8e9960644929b84b6e7d38f585859029 7340 Packages.bz2
